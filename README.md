@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Movies veres's+Repo!;created+by+JOKER+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
 <p align="center">
-  <img src="assets/logo(1).jpg" alt="Akbotmakersnew Logo">
+  <img src="assets/logo(1).jpg" alt="moviesvers Logo">
 </p>
 <h1 align="center">
   <b>LUCIFER BOT</b>
