@@ -3,7 +3,7 @@
   <img src="assets/logo(1).jpg" alt="moviesvers Logo">
 </p>
 <h1 align="center">
-  <b>LUCIFER BOT</b>
+  <b>NARUTO BOT</b>
 </h1>
 
 ## Features
