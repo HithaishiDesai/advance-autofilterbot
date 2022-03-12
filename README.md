@@ -69,7 +69,7 @@ You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://rail
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 # DEVS
-[AK BOT DEVS](https://t.me/movies_vers_talks)
+[Movie vers](https://t.me/movies_vers_talks)
 
 ## CREATOR
  
